@@ -1,0 +1,11 @@
+{
+  "name": "odin-tutorial-passportjs",
+  "version": "1.0.0",
+  "description": "Tutorial to learn how to integrate passportJS middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
